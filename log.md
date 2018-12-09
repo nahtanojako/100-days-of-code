@@ -117,3 +117,7 @@
 **Today's Progress**:Got a certificate from free code camp for responsive web design completion of challenges and projects.
 further working on the challenges of Basic Javascript.
 
+### Day 28: December 9, 2018
+
+**Today's Progress**:Completed the challenges ,learned strings,variables, bracket notations and other basics further working on the challenges of Basic Javascript.
+
