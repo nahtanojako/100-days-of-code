@@ -124,3 +124,7 @@ further working on the challenges of Basic Javascript.
 ### Day 29: December 10, 2018
 
 **Today's Progress**:Completed the challenges ,got the concept of arrays, push,pop,shift,unshift  and other conceptual basics further working on the challenges of Basic Javascript.
+
+### Day 30: December 11, 2018
+
+**Today's Progress**:Completed the challenges ,got the concept of switches , if/else statements, equality operators , chaining different statements  and other conceptual basics further working on the challenges of Basic Javascript.
