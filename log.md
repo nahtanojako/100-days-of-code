@@ -128,3 +128,7 @@ further working on the challenges of Basic Javascript.
 ### Day 30: December 11, 2018
 
 **Today's Progress**:Completed the challenges ,got the concept of switches , if/else statements, equality operators , chaining different statements  and other conceptual basics further working on the challenges of Basic Javascript.
+
+### Day 31: December 12, 2018
+
+**Today's Progress**:Completed the challenges ,got the concept of object,variables,dot and bracket notation accessment looping  and other conceptual basics further working on the challenges of Basic Javascript.
