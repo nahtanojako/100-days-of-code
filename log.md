@@ -132,3 +132,7 @@ further working on the challenges of Basic Javascript.
 ### Day 31: December 12, 2018
 
 **Today's Progress**:Completed the challenges ,got the concept of object,variables,dot and bracket notation accessment looping  and other conceptual basics further working on the challenges of Basic Javascript.
+
+### Day 32: December 13, 2018
+
+**Today's Progress**:Completed the basic Javascript part of Free Code Camp's curriculum.Started Basic javascript section from web developer bootcamp, made an age calculator(that tells how many days you've been alive.).
