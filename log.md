@@ -141,3 +141,6 @@ further working on the challenges of Basic Javascript.
 
 **Today's Progress**:Started Basic javascript section from web developer bootcamp,practised conditionals and if/else statements.Made a number guessing game using simple javascript.
  
+### Day 34: December 15, 2018
+
+**Today's Progress**:Started Basic javascript section from web developer bootcamp,practised loops , while loops understood their usage.
