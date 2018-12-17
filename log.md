@@ -148,3 +148,7 @@ further working on the challenges of Basic Javascript.
 ### Day 35: December 16, 2018
 
 **Today's Progress**:Started Basic javascript section from web developer bootcamp,practised arrays and objects and made several small functions dealing with arrays and objects.
+
+### Day 36: December 17, 2018
+
+**Today's Progress**:Started Basic javascript section from web developer bootcamp,practised objects and started DOM manipulation and completed it continued with advanced DOM manipulation and practised it by making several short functions.
