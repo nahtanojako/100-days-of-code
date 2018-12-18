@@ -152,3 +152,7 @@ further working on the challenges of Basic Javascript.
 ### Day 36: December 17, 2018
 
 **Today's Progress**:Started Basic javascript section from web developer bootcamp,practised objects and started DOM manipulation and completed it continued with advanced DOM manipulation and practised it by making several short functions.
+
+### Day 37: December 18, 2018
+
+**Today's Progress**:Completed Basic javascript section of web developer bootcamp,made a score counter by combining all basic rules of javascript.Started the ES6 for everyone course of wesbos too.
