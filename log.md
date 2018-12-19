@@ -156,3 +156,7 @@ further working on the challenges of Basic Javascript.
 ### Day 37: December 18, 2018
 
 **Today's Progress**:Completed Basic javascript section of web developer bootcamp,made a score counter by combining all basic rules of javascript.Started the ES6 for everyone course of wesbos too.
+
+### Day 38: December 19, 2018
+
+**Today's Progress**:Started the ES6 for everyone course of wesbos too.Practised scopes again and worked on arrow functions. Wrote different functions and learned where to use arrows functions.
