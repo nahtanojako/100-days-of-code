@@ -160,3 +160,8 @@ further working on the challenges of Basic Javascript.
 ### Day 38: December 19, 2018
 
 **Today's Progress**:Started the ES6 for everyone course of wesbos too.Practised scopes again and worked on arrow functions. Wrote different functions and learned where to use arrows functions.
+
+
+### Day 39: December 20, 2018
+
+**Today's Progress**:Started the ES6 for everyone course of wesbos too.Practised arrow functions completed the exercises of wesbos's course. Also, started template literals section.
