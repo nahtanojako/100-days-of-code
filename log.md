@@ -165,3 +165,8 @@ further working on the challenges of Basic Javascript.
 ### Day 39: December 20, 2018
 
 **Today's Progress**:Started the ES6 for everyone course of wesbos too.Practised arrow functions completed the exercises of wesbos's course. Also, started template literals section.
+
+
+### Day 40: December 21, 2018
+
+**Today's Progress**:Completed the practice of template literals part and additional string improvements. Also, practised  destructuring objects and arrays.
