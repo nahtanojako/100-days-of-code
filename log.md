@@ -170,3 +170,8 @@ further working on the challenges of Basic Javascript.
 ### Day 40: December 21, 2018
 
 **Today's Progress**:Completed the practice of template literals part and additional string improvements. Also, practised  destructuring objects and arrays.
+
+
+### Day 41: December 22, 2018
+
+**Today's Progress**:Completed the destructuring part and practised for in and for of loops also practised array improvements.
