@@ -175,3 +175,8 @@ further working on the challenges of Basic Javascript.
 ### Day 41: December 22, 2018
 
 **Today's Progress**:Completed the destructuring part and practised for in and for of loops also practised array improvements.
+
+
+### Day 42: December 23, 2018
+
+**Today's Progress**:Practised  array.some , array.every , array.find , findindex, symbols ,spreads and promises. 
