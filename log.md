@@ -185,3 +185,8 @@ further working on the challenges of Basic Javascript.
 ### Day 43: December 24, 2018
 
 **Today's Progress**:Practised classes , generators , Proxies and javascript modules. 
+
+
+### Day 44: December 25, 2018
+
+**Today's Progress**:Completed ES6 for everyone course.Practised sets and weaksets, maps and weak maps ,Had an overlook of ES7,ES8 and beyond.
