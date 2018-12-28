@@ -200,3 +200,8 @@ further working on the challenges of Basic Javascript.
 ### Day 46: December 27, 2018
 
 **Today's Progress**:  Started javascript 30 by Wesbos . Made three projects including a drum kit , a CSS clock and used CSS variables in co-ordination with javascript (blur)(Spacing)(base).
+
+
+### Day 47: December 28, 2018
+
+**Today's Progress**:  Started learning how to learn course from coursera.Almost completed the first week.Completed two projects of Javascript 30.Also had a typing session.
