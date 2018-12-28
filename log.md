@@ -195,3 +195,8 @@ further working on the challenges of Basic Javascript.
 ### Day 45: December 26, 2018
 
 **Today's Progress**: Revised all the basic concepts of javascript (by ES6 for everyone).
+
+
+### Day 46: December 27, 2018
+
+**Today's Progress**:  Started javascript 30 by Wesbos . Made three projects including a drum kit , a CSS clock and used CSS variables in co-ordination with javascript (blur)(Spacing)(base).
