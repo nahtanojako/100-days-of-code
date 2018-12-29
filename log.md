@@ -205,3 +205,8 @@ further working on the challenges of Basic Javascript.
 ### Day 47: December 28, 2018
 
 **Today's Progress**:  Started learning how to learn course from coursera.Almost completed the first week.Completed two projects of Javascript 30.Also had a typing session.
+
+
+### Day 48: December 29, 2018
+
+**Today's Progress**:  Made three projects of javascript 30. Made a javascript image gallery using flexbox and added animations , made an input field that guesses the input even when it is not completed , and practised array methods (some,every,find,findIndex and spread).
