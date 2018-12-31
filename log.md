@@ -210,3 +210,8 @@ further working on the challenges of Basic Javascript.
 ### Day 48: December 29, 2018
 
 **Today's Progress**:  Made three projects of javascript 30. Made a javascript image gallery using flexbox and added animations , made an input field that guesses the input even when it is not completed , and practised array methods (some,every,find,findIndex and spread).
+
+
+### Day 49: December 30, 2018
+
+**Today's Progress**:  Made five projects of javascript 30.Those include checkbox challenge , Konami code , Images slide in on scroll function , Understood chrome dev tools , and created fun colors on HTML-5 Canvas. 
