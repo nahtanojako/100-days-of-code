@@ -215,3 +215,8 @@ further working on the challenges of Basic Javascript.
 ### Day 49: December 30, 2018
 
 **Today's Progress**:  Made five projects of javascript 30.Those include checkbox challenge , Konami code , Images slide in on scroll function , Understood chrome dev tools , and created fun colors on HTML-5 Canvas. 
+
+
+### Day 50: December 31, 2018
+
+**Today's Progress**:  Made two projects of javascript. The first one is HTML-5 Video Player on which I created a progress bar , skip buttons and ranges for volume and playback rate.The other one is the concept and comparison between copy and reference.
