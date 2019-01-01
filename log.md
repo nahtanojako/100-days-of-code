@@ -220,3 +220,8 @@ further working on the challenges of Basic Javascript.
 ### Day 50: December 31, 2018
 
 **Today's Progress**:  Made two projects of javascript. The first one is HTML-5 Video Player on which I created a progress bar , skip buttons and ranges for volume and playback rate.The other one is the concept and comparison between copy and reference.
+
+
+### Day 51: January 1, 2019
+
+**Today's Progress**: Made a project of javascript 30. Practised Local storage and event delegation.
