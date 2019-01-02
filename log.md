@@ -225,3 +225,9 @@ further working on the challenges of Basic Javascript.
 ### Day 51: January 1, 2019
 
 **Today's Progress**: Made a project of javascript 30. Practised Local storage and event delegation.
+
+
+### Day 52: January 2, 2019
+
+**Today's Progress**: Made a project of javascript 30. Practised sort function and sorted out names of the bands.
+
