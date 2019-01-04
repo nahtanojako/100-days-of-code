@@ -236,3 +236,7 @@ further working on the challenges of Basic Javascript.
 
 **Today's Progress**: Made four projects of javascript 30. Speech recognition , geolocation , follow along links , adding time with reduce. Practised reduce function and also formed a pill-shaped highlight over the links of the page that follows the cursor and highlights the link when it is hovered.
 
+
+### Day 54: January 4, 2019
+
+**Today's Progress**: Made three projects of javascript 30.Those include text to speech , sticky nav using javascript , capture , propagation and bubbling.
