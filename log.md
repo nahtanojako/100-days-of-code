@@ -240,3 +240,8 @@ further working on the challenges of Basic Javascript.
 ### Day 54: January 4, 2019
 
 **Today's Progress**: Made three projects of javascript 30.Those include text to speech , sticky nav using javascript , capture , propagation and bubbling.
+
+
+### Day 55: January 5, 2019
+
+**Today's Progress**: Made three projects of javascript 30.Those include Stripe follow along , a countdown timer with various options and a drag to scroll function.
