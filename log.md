@@ -245,3 +245,8 @@ further working on the challenges of Basic Javascript.
 ### Day 55: January 5, 2019
 
 **Today's Progress**: Made three projects of javascript 30.Those include Stripe follow along , a countdown timer with various options and a drag to scroll function.
+
+
+### Day 56: January 6, 2019
+
+**Today's Progress**:Made two projects of javascript.Those include Whack a mole game and a playback rate scrubber.
