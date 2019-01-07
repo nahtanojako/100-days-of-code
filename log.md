@@ -250,3 +250,8 @@ further working on the challenges of Basic Javascript.
 ### Day 56: January 6, 2019
 
 **Today's Progress**:Made two projects of javascript.Those include Whack a mole game and a playback rate scrubber.
+
+
+### Day 57: January 7, 2019
+
+**Today's Progress**:Completed the ES6 part of Free Code Camp.
