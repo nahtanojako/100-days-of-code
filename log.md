@@ -255,3 +255,8 @@ further working on the challenges of Basic Javascript.
 ### Day 57: January 7, 2019
 
 **Today's Progress**:Completed the ES6 part of Free Code Camp.
+
+
+### Day 58: January 8, 2019
+
+**Today's Progress**:Completed the Debugging and regular expression part of Free Code Camp.
