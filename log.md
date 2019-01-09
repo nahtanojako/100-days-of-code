@@ -260,3 +260,8 @@ further working on the challenges of Basic Javascript.
 ### Day 58: January 8, 2019
 
 **Today's Progress**:Completed the Debugging and regular expression part of Free Code Camp.
+
+
+### Day 59: January 9, 2019
+
+**Today's Progress**:Completed the Basic Data Structure and started regular expression part of Free Code Camp.
