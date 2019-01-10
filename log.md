@@ -265,3 +265,8 @@ further working on the challenges of Basic Javascript.
 ### Day 59: January 9, 2019
 
 **Today's Progress**:Completed the Basic Data Structure and started regular expression part of Free Code Camp.
+
+
+### Day 60: January 10, 2019
+
+**Today's Progress**: Working on basic algorithms from free code camp.
