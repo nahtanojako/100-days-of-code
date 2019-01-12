@@ -270,3 +270,8 @@ further working on the challenges of Basic Javascript.
 ### Day 60: January 10, 2019
 
 **Today's Progress**: Working on basic algorithms from free code camp.
+
+
+### Day 61: January 11, 2019
+
+**Today's Progress**: Completed on basic algorithms from free code camp.
