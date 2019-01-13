@@ -275,3 +275,7 @@ further working on the challenges of Basic Javascript.
 ### Day 61: January 11, 2019
 
 **Today's Progress**: Completed on basic algorithms from free code camp.
+
+### Day 62: January 12, 2019
+
+**Today's Progress**: Completed on object oriented programming from free code camp.
