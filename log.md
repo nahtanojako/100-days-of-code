@@ -279,3 +279,13 @@ further working on the challenges of Basic Javascript.
 ### Day 62: January 12, 2019
 
 **Today's Progress**: Completed on object oriented programming from free code camp.
+
+
+### Day 63: January 13, 2019
+
+**Today's Progress**: Practising on functional programming from free code camp.
+
+
+### Day 64: January 14, 2019
+
+**Today's Progress**: Completed on functional programming from free code camp.
