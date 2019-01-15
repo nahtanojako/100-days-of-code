@@ -288,4 +288,8 @@ further working on the challenges of Basic Javascript.
 
 ### Day 64: January 14, 2019
 
+**Today's Progress**: Practised on functional programming from free code camp.
+
+### Day 65: January 15, 2019
+
 **Today's Progress**: Completed on functional programming from free code camp.
