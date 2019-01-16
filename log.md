@@ -293,3 +293,8 @@ further working on the challenges of Basic Javascript.
 ### Day 65: January 15, 2019
 
 **Today's Progress**: Completed on functional programming from free code camp.
+
+
+### Day 65: January 15, 2019
+
+**Today's Progress**: Completed learning how to learn from coursera.
