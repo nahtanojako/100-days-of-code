@@ -303,3 +303,10 @@ further working on the challenges of Basic Javascript.
 ### Day 67: January 17, 2019
 
 **Today's Progress**: Practising intermediate algorithms from free code camp.
+
+
+### Day 68: January 18, 2019
+
+**Today's Progress**:Made a project of javascript 30. Practised sort function and sorted out names of the bands. 
+
+ 
