@@ -314,3 +314,8 @@ further working on the challenges of Basic Javascript.
  ### Day 69: January 19, 2019
 
 **Today's Progress**: Made a project of javascript 30. Practised Local storage and event delegation.
+
+
+ ### Day 70: January 20, 2019
+
+**Today's Progress**: Practise the difference between reference and copy.
