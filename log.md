@@ -324,3 +324,8 @@ further working on the challenges of Basic Javascript.
  ### Day 71: January 21, 2019
 
 **Today's Progress**: Practise Intermediate algorithms from free code camp.
+
+
+ ### Day 72: January 22, 2019
+
+**Today's Progress**: Completed Intermediate algorithms from free code camp.
