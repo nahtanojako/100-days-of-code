@@ -334,3 +334,13 @@ further working on the challenges of Basic Javascript.
  ### Day 73: January 23, 2019
 
 **Today's Progress**: Started projects of free code camp.Made a palindromic checker that checks if the string  is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
+
+
+ ### Day 74: January 24, 2019
+
+**Today's Progress**: Started the projects of 2nd certification of free code camp.
+
+
+ ### Day 75: January 25, 2019
+
+**Today's Progress**: Completed the projects of 2nd certification of free code camp.Got the certification.
