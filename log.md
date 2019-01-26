@@ -344,3 +344,8 @@ further working on the challenges of Basic Javascript.
  ### Day 75: January 25, 2019
 
 **Today's Progress**: Completed the projects of 2nd certification of free code camp.Got the certification.
+
+
+ ### Day 76: January 26, 2019
+
+**Today's Progress**: Gave a nice shape and design to the projects of FCC.
