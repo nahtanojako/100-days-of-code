@@ -359,3 +359,8 @@ further working on the challenges of Basic Javascript.
  ### Day 78: January 28, 2019
 
 **Today's Progress**: Completed bootstrap from FCC, started jQuery.
+
+
+ ### Day 79: January 29, 2019
+
+**Today's Progress**: Completed jQuery part on FCC, ready to start react.js.
