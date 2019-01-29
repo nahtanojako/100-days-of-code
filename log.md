@@ -349,3 +349,13 @@ further working on the challenges of Basic Javascript.
  ### Day 76: January 26, 2019
 
 **Today's Progress**: Gave a nice shape and design to the projects of FCC.
+
+
+ ### Day 77: January 27, 2019
+
+**Today's Progress**: Started learning bootstrap from FCC.
+
+
+ ### Day 78: January 28, 2019
+
+**Today's Progress**: Completed bootstrap from FCC, started jQuery.
