@@ -364,3 +364,8 @@ further working on the challenges of Basic Javascript.
  ### Day 79: January 29, 2019
 
 **Today's Progress**: Completed jQuery part on FCC, ready to start react.js.
+
+
+ ### Day 80: January 30, 2019
+
+**Today's Progress**: Revised j.Query once again.
