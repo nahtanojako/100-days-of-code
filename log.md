@@ -369,3 +369,8 @@ further working on the challenges of Basic Javascript.
  ### Day 80: January 30, 2019
 
 **Today's Progress**: Revised j.Query once again.
+
+
+ ### Day 81: January 31, 2019
+
+**Today's Progress**: Completed the SASS section of Free Code Camp.
