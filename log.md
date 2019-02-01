@@ -374,3 +374,8 @@ further working on the challenges of Basic Javascript.
  ### Day 81: January 31, 2019
 
 **Today's Progress**: Completed the SASS section of Free Code Camp.
+
+
+ ### Day 82: February 1, 2019
+
+**Today's Progress**: Started the react section of Free Code Camp.
