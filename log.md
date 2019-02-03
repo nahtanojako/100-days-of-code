@@ -384,3 +384,8 @@ further working on the challenges of Basic Javascript.
  ### Day 83: February 2, 2019
 
 **Today's Progress**: Practicing the react section of Free Code Camp.
+
+
+ ### Day 84: February 3, 2019
+
+**Today's Progress**: Practicing the react section of Free Code Camp.
