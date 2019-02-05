@@ -398,4 +398,4 @@ further working on the challenges of Basic Javascript.
 
  ### Day 86: February 5, 2019
 
-**Today's Progress**: Practicing the react section of Free Code Camp.Also started another course for react sideby side.
+**Today's Progress**: Practicing the react section of Free Code Camp.Also started another course for react sideby side.Installed node js and npm for further practice on my own.
