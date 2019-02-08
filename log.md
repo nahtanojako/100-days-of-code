@@ -407,4 +407,9 @@ further working on the challenges of Basic Javascript.
 
  ### Day 88: February 7, 2019
 
-**Today's Progress**: I started another course for react sideby side from udemy.Practised react on create react app. 
+**Today's Progress**: I started another course for react sideby side from udemy.Practised react on create react app.
+
+
+ ### Day 89: February 8, 2019
+
+**Today's Progress**: Practised ES6 basics and arrow functions and their usage in react by udemy.
