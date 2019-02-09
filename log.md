@@ -413,3 +413,9 @@ further working on the challenges of Basic Javascript.
  ### Day 89: February 8, 2019
 
 **Today's Progress**: Practised ES6 basics and arrow functions and their usage in react by udemy.
+
+
+
+ ### Day 90: February 9, 2019
+
+**Today's Progress**: Practised ES6 let , const and their usage in react by a course from udemy.
