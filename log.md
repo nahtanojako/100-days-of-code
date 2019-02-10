@@ -419,3 +419,7 @@ further working on the challenges of Basic Javascript.
  ### Day 90: February 9, 2019
 
 **Today's Progress**: Practised ES6 let , const and their usage in react by a course from udemy.
+
+ ### Day 91: February 10, 2019
+
+**Today's Progress**: Practised ES6 in react by a course from udemy.
