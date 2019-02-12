@@ -432,4 +432,4 @@ further working on the challenges of Basic Javascript.
 
  ### Day 93: February 12, 2019
 
-**Today's Progress**: Completed CSS course for revision , by university of Michigan.
+**Today's Progress**: Completed CSS course for personal  revision , by university of Michigan.
