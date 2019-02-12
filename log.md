@@ -428,3 +428,7 @@ further working on the challenges of Basic Javascript.
  ### Day 92: February 11, 2019
 
 **Today's Progress**: Practised ES6 in react by a course from udemy.Made a counter using react that causes increment and decrement in the original number whenrelative buttons are pressed and also resets the counter.
+
+Day 93: February 12, 2019
+
+Today's Progress: Today due to problem in internet connectivity I started "You don't know JS" 
