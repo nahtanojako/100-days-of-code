@@ -440,4 +440,4 @@ further working on the challenges of Basic Javascript.
 
  ### Day 95: February 14, 2019
 
-**Today's Progress**: Practised  arrays in Jsx by acourse from Udemy.
+**Today's Progress**: Practised  arrays in Jsx by acourse from Udemy.Got a certification for CSS3 by university of Michigan today.
