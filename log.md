@@ -452,3 +452,8 @@ further working on the challenges of Basic Javascript.
  ### Day 97: February 16, 2019
 
 **Today's Progress**: Practising React part from udemy on create react app.Understanding the syntax of react and difference between avascript and react syntax. Practising React part from Free Code Camp.
+
+
+ ### Day 97: February 16, 2019
+
+**Today's Progress**: Practising React part from udemy on create react app.Completed the javascript course from university of Michigan.Practising React part from Free Code Camp.
