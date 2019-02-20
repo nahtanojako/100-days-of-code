@@ -466,3 +466,10 @@ further working on the challenges of Basic Javascript.
  ### Day 100: February 19, 2019
 
 **Today's Progress**: Practising React part from udemy on create react app.Got a certificate for interactivity with Javascript.  
+                
+                
+                 <!-- Round 2 -->
+
+ ### Day 1: February 20, 2019
+
+**Today's Progress**: Practising React part from udemy on create react app.Practising components and classes and sub-classes in react.
