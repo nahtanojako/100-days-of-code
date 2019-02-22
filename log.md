@@ -473,3 +473,10 @@ further working on the challenges of Basic Javascript.
  ### Day 1: February 20, 2019
 
 **Today's Progress**: Practising React part from udemy on create react app.Practising components and classes and sub-classes in react.
+
+
+ ### Day 3: February 21, 2019
+
+**Today's Progress**:Making indecision app, learned and practised making props and connecting different components and relating the children props with parents.
+
+
