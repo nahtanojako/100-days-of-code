@@ -485,3 +485,8 @@ further working on the challenges of Basic Javascript.
 **Today's Progress**:Making indecision app, practised stateless functional components and state functinal components.
 
 
+ ### Day 4: February 23, 2019
+
+**Today's Progress**:Making indecision app, practised lifecycle Methods, got the idea of webpack and now working upon modals.
+
+
